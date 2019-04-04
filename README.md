@@ -14,10 +14,10 @@
 
 ### 鸣谢
 
-* 小胡子哥（插件原作者）：<https://github.com/barretlee>
+- 小胡子哥（插件原作者）：<https://github.com/barretlee>
 
 ### Wechat
 
 关注公众号，搜云库技术团队，专注于开发技术的研究与知识分享
  
-![关注公众号-搜云库技术团队](http://www.ymq.io/images/souyunku.png "搜云库技术团队")
+![关注公众号-搜云库技术团队](https://www.souyunku.com/images/souyunku.png "搜云库技术团队")
