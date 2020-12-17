@@ -17,12 +17,3 @@
 - 小胡子哥（插件原作者）：<https://github.com/barretlee>
 
 
-### 免费送 4000G 架构师资料
-
-- [https://team.souyunku.com](https://team.souyunku.com/zh-cn/blog/02video.html)
-
-### Wechat
-
-关注公众号，搜云库技术团队，专注于开发技术的研究与知识分享
- 
-![关注公众号-搜云库技术团队](https://www.souyunku.com/images/souyunku.png "搜云库技术团队")
